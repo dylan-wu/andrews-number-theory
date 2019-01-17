@@ -3,34 +3,40 @@ by George E. Andrews | (Dover Publications)
 
 [Amazon](https://www.amazon.com/Number-Theory-Dover-Books-Mathematics-ebook/dp/B00B78IWW2) | [Kindle](https://read.amazon.com/?asin=B00B78IWW2)
 
-# Part 1
+# Part 1 Multiplicativity - Divisibility
 
-## Chapter 1
+## Chapter 1 Basis Representation
 
-## Chapter 2
+## Chapter 2 The Fundamental Theorem of Arithmetic
 
-## Chapter 3
+## Chapter 3 Combinatorial and Computational Number Theory
 
-## Chapter 4
+## Chapter 4 Fundamentals of Congruence
 
-## Chapter 5
+## Chapter 5 Solving Congruences
 
-## Chapter 6
+## Chapter 6 Arithmetic Functions
 
-## Chapter 7
+## Chapter 7 Primitive Roots
 
-## Chapter 8
+## Chapter 8 Prime Numbers
 
-## Chapter 9
+# Part 2 Quadratic Congruences
 
-## Chapter 10
+## Chapter 9 Quadratic Residues
 
-## Chapter 11
+## Chapter 10 Distribution of Quadratic Residues
 
-## Chapter 12
+# Part 3 Additivity
 
-## Chapter 13
+## Chapter 11 Sums of Squares
 
-## Chapter 14
+## Chapter 12 Elementary Partition Theory
 
-## Chapter 15
+## Chapter 13 Partition Generating Functions
+
+## Chapter 14 Partition Identities
+
+# Part 4 Geometric Number Theory
+
+## Chapter 15 Lattice Points
