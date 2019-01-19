@@ -3,6 +3,10 @@ by George E. Andrews | (Dover Publications)
 
 [Amazon](https://www.amazon.com/Number-Theory-Dover-Books-Mathematics-ebook/dp/B00B78IWW2) | [Kindle](https://read.amazon.com/?asin=B00B78IWW2)
 
+# Plan
+
+- From theorem or proof go search for a video or explanation, watch or read and take notes
+
 # Part 1 Multiplicativity - Divisibility
 
 ## Chapter 1 Basis Representation
